@@ -1,0 +1,20 @@
+@import "mixins";
+
+footer {
+  padding: calculateRem(8px) calculateRem(16px);
+  color: $secondary--color;
+  height: 60px;
+  background: $primary--color;
+  margin-top: 2rem;
+  position: sticky;
+  top: 100%;
+
+  img {
+    width: 25%;
+  }
+}
+
+.footer-xs {
+  text-align: center;
+  padding-top: 1rem;
+}

@@ -1,0 +1,12 @@
+{
+  "alert": "Alert",
+  "oneVisionApp": "OneVision",
+  "areYouSure": "Are you sure?",
+  "back": "Back",
+  "changeBrowser": "Your browser is not supported. Please use, Chrome, Firefox, Safari, Opera or IE>11",
+  "error404": "404 Error",
+  "errorHasOcurred": "An error has ocurred",
+  "goBack": "Go back",
+  "updateBrowser": "You are using an old browser, please update it and reload the page.",
+  "yes": "Yes"
+}
